@@ -27,7 +27,9 @@ systemctl status sshd
 Login to your SSH for the first time by:
 
 ssh localhost
+
 choose YES
+
 choose a password for your ssh server
 
 Find your Public IP address in terminal by:
