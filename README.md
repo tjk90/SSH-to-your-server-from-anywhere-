@@ -2,10 +2,13 @@
 ssh to your server from anywhere using linux
 
 Install OpenSSH:
+
 RedHat family
+
 sudo dnf install openssh-server
 
 Debian family
+
 sudo apt-get install openssh-server
 
 Enable SSHD:
