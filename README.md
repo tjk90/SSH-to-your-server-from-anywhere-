@@ -1,5 +1,5 @@
 # SSH-o-your-Linux-Server-from-anywhere
-ssh to your server from anywhere using linux
+
 
 Install OpenSSH:
 
