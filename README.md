@@ -35,11 +35,13 @@ choose a password for your ssh server
 Find your Public IP address in terminal by:
 
 curl https://ipinfo.io/ip
+
 XXX.XXX.XXXX.XXXX
 
 Now try ssh from your phone to connect to your server 
 
 Iphone users Download Termius app from App Store  and follow below
+
 where you see IP or Hostname type your "PUBLIC IP"
 where you see Username type the host name host name in the linux terminal (ex. mine is centos) ---->  [centos@localhost ~]$  <----
 where you see Password its the one of the ssh you just choose 
