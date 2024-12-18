@@ -1,4 +1,4 @@
-# SSH-o-your-Linux-Server-from-anywhere
+# SSH-to-your-Linux-Server-from-anywhere
 
 
 Install OpenSSH:
