@@ -4,38 +4,38 @@
 Install OpenSSH:
 
 RedHat family
-
+```sh
 sudo dnf install openssh-server
 
 Debian family
 
 sudo apt-get install openssh-server
-
+```
 Enable SSHD:
-
+```sh
 sudo systemctl enable sshd
-
+```
 After enabling, start the SSH server with:
-
+```sh
 sudo systemctl start sshd
-
+```
 
 To verify that the SSH server is running correctly, you can check its status:
-
+```sh
 systemctl status sshd
-
+```
 Login to your SSH for the first time by:
-
+```sh
 ssh localhost
-
+```
 choose YES
 
 choose a password for your ssh server
 
 Find your Public IP address in terminal by:
-
+```sh
 curl https://ipinfo.io/ip
-
+```
 XXX.XXX.XXXX.XXXX
 
 Now try ssh from your phone to connect to your server 
